@@ -8,9 +8,9 @@
 <a href="https://pepy.tech/project/evidently" target="_blank"><img src="https://pepy.tech/badge/evidently" alt="PyPi Downloads"></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="images/gh_header.png" alt="AetherAI Dashboard">
-</p>
+</p> -->
 
 AetherAI is an open-source Python library for evaluating, testing, and monitoring machine learning models and LLM-powered systems in both development and production environments. It provides comprehensive tools for data quality assessment, model performance evaluation, data drift detection, and LLM evaluation.
 
